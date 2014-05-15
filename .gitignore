@@ -1,2 +1,4 @@
 *.prefs
 .metadata*
+.metadata\*
+*.index
